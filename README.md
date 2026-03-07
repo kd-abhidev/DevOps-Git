@@ -9,9 +9,11 @@ Git supports distributed development. Each developer holds a local copy of the r
 Platforms such as GitHub provide remote repository hosting. These platforms support collaboration between developers, project management, and version tracking for software projects.
 
 
+
 ## Purpose of This Repository
 
 This repository contains structured notes related to Git concepts. The notes cover topics such as version control basics, Git architecture, branching, merging, and change management. The content supports learning, revision, and interview preparation for developers and DevOps learners.
+
 
 
 ## Topics Covered
@@ -29,6 +31,7 @@ This repository contains structured notes related to Git concepts. The notes cov
 • Remote repositories and collaboration
 
 • Basic Git operations and concepts
+
 
 
 
