@@ -15,12 +15,19 @@ This repository contains structured notes related to Git concepts. The notes cov
 ## Topics Covered
 
 • Introduction to Git
+
 • Git architecture and workflow
+
 • Branching concepts
+
 • Merging strategies
+
 • Undoing changes in Git
+
 • Remote repositories and collaboration
+
 • Basic Git operations and concepts
+
 
 ## Learning Objective
 
