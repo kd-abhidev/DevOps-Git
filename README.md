@@ -12,7 +12,7 @@ Platforms such as GitHub provide remote repository hosting. These platforms supp
 
 ## Purpose of This Repository
 
-This repository contains structured notes related to Git concepts. The notes cover topics such as version control basics, Git architecture, branching, merging, and change management. The content supports learning, revision, and interview preparation for developers and DevOps learners.
+This repository contains structured notes related to Git concepts. The notes cover topics such as Introduction to git, Git architecture, branching, merging, and change management. The content supports learning, revision, and interview preparation for learners.
 
 
 
@@ -37,5 +37,5 @@ This repository contains structured notes related to Git concepts. The notes cov
 
 ## Learning Objective
 
-The goal of this repository is to build a clear understanding of Git concepts and version control practices. These notes serve as a reference for students and developers who want to strengthen their Git fundamentals and prepare for real world development workflows.
+This repository aims to establish a solid comprehension of Git principles and version control methods. These notes act as a guide for students and developers aiming to enhance their Git basics and get ready for practical development processes
 
